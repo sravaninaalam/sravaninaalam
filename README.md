@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sravaninaalam
-- 👀 I’m interested in Webdevelopment
+- 👀 I’m interested in web development
 - 🌱 I’m currently developing projects using react
--  You can reach me through gmail
+-  You can reach me through Gmail
 
 <!---
 sravaninaalam/sravaninaalam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
